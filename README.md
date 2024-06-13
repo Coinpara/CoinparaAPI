@@ -1,0 +1,2 @@
+# CoinparaAPI
+Coinpara API Documentation
