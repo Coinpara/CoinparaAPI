@@ -151,6 +151,3 @@ Warning: Your IP address can be blocked if you make too many unauthorized reques
 <code>Pair</code> parameter: <code>You can get available pair from [https://api.coinpara.com/v1/exchangeinfo]</code>
 
 <code>Type</code> parameter: <code>buy</code>, <code>sell</code>
-
-
-![image](https://github.com/Coinpara/CoinparaAPI/assets/95549302/25cf293a-14d9-478a-b868-4fbee794a8a6)
